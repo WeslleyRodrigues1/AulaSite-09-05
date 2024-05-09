@@ -1,0 +1,60 @@
+.tour{
+    background-color: black;
+    color: #fff;
+    height: 80vh;
+    width: 100%;
+}
+
+.isaac{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.tituloTour, .subtituloTuor{
+    text-align: center;
+}
+
+.tabelaTour{
+    background-color: #fff;
+    color: black;
+    margin: 1rem;
+}
+
+.linhaTour1, .linhaTour2, .linhaTour3{
+    padding: 1rem;
+    border-bottom: 0.5px solid #6d6a6a;
+}
+
+.imagensTour{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cardTour1, .cardTour2, .cardTour3{
+    background-color: white;
+    height: 420px;
+    width: 300px;
+}
+
+.cardTourImage{
+    background-image: url(../imagens/banner.jpg);
+    height: 50%;
+    background-size: cover;
+}
+
+.cardTourText{
+    color: black;
+    font-size: 20px;
+}
+
+iframe{
+    width: 100%;
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+    height: 100px;
+    text-align: center;
+    padding: 50px;
+}
